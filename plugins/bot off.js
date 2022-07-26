@@ -6,7 +6,7 @@ let handler = async (m, { participants }) => {
 }
 handler.help = ['Kanna(on/off)']
 handler.tags = ['main']
-handler.command = /^(bebannotoff)$/i
+handler.command = /^(bebanbotoff)$/i
 
 handler.admin = true
 
